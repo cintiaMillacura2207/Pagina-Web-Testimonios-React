@@ -22,3 +22,4 @@ function Testimonio(props){
         </div>
     );
 }
+export default Testimonio;
